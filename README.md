@@ -33,12 +33,9 @@ At Israel's urgent request, the UN has authorized the immediate dispatch of CJTF
 
 OPERATION EASTERN HAMMER is a contingency prepared to neutralize a sudden strategic threat to Northern Israel originating from Syria and Lebanon
 The objectives of operation EASTERN HAMMER are as follows:
+1) CONTAINMENT: Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and stratetig infrastructures and facilities.
 
-1) PHASE ONE- CONTAIMNENT: Contain any offensive effort by the enemy to minimize l territorial impact ,defend civilian population centers and strategic facilities and ifrastructure.
-
-2) PHASE TWO - COUNTERING: Launch of offensive maneuvers accross the borders aimed at disrupting the enemy's capacity to reorganize and launch further offensive efforts into Israel and degrade its indirect fires capability (Rockets, barrel/mortar artillery)
-
-3) PHASE THREE - DECISION: 
+2) COUNTERING: As needed, launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
 
 
