@@ -1,2 +1,24 @@
 # OPEH-Brief
 Briefing material for 132nd Virtual Wing- Operation Eastern Hammer campaign
+
+**SITUATION
+**
+
+Since 2014 and the height of the Syrian civil war, Iran has been making use of the internal disarray df 
+
+
+ALLIED GROUND FORCE
+INTELLIGENCE
+ENEMY GROUND OPPOSITION
+ENEMY AIR DEFENSES
+ENEMY AIR THREATS
+WEATHER
+COMMUNICATIONS
+SPINS
+AIRFIELD INFORMATION
+AIRSPACE CONTROL PLAN
+TANKERS
+AWACS
+AIR TASKING ORDER (ATO)
+ADMIN
+ACKNOWLEDGEMENTS
