@@ -68,6 +68,8 @@ https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3 [Syrian ground combat tactics
 
 https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce [Hezbollah - Order of battle and tactics]
 
+TBD - Add Syria ground force
+
 ## ENEMY GROUND OPPOSITION
 
 TBD
