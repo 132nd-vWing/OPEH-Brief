@@ -1,7 +1,7 @@
 # OPEH-Brief
 Briefing material for 132nd Virtual Wing- Operation Eastern Hammer campaign
 
-# PREFACE 
+## PREFACE 
 ## SITUATION
 
 
@@ -21,7 +21,7 @@ This buildup of forces was continuing gradually with minor, local skirmishes wit
 Parallel to the above, Russia has also been using the situation in Syria to its advantage by dispatching air and ground forces and securing the major sea port Tartus as a primary naval base in the Mediterranean.
 With the increase in tension and many forces facing each other, a full scale war was only a matter of time.
 
-##THE 2022 ESCALATION##
+#THE 2022 ESCALATION
 
 
 On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was travaling in a Lebanese village when being hit, several civilian casualties were reported.
@@ -37,7 +37,7 @@ Syria and Hezbollah responded by ordering all UN peacekeeping forces (UNDOF in t
 
 All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
-##OPERATION EASTERN HAMMER##
+# OPERATION EASTERN HAMMER
 
 OPERATION EASTERN HAMMER is a contingency prepared to neutralize a sudden strategic threat to Northern Israel originating from Syria and Lebanon
 The objectives of operation EASTERN HAMMER are as follows:
@@ -45,7 +45,7 @@ The objectives of operation EASTERN HAMMER are as follows:
 2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
-** PERIPHERALS:
+# PERIPHERALS:
 
 Both Jordan and Turkey have announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
 
