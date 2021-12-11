@@ -64,7 +64,8 @@ TBD
 
 ## INTELLIGENCE
 
-TBD
+https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3 [ Syrian ground combat tactics] 
+https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce [ Hezbollah - Order of battle and tactics ]
 
 ## ENEMY GROUND OPPOSITION
 
