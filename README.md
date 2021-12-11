@@ -41,6 +41,11 @@ The objectives of operation EASTERN HAMMER are as follows:
 2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
+**PERIPHERALS:
+**
+
+Both Jordan and Turkey have announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+
 
 
 
