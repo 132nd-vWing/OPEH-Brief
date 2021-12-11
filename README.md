@@ -26,32 +26,50 @@ The IDF increased its readiness along the Northern border as the Israeli Air For
 Iran and Syria quickly issued a joint statement saying that "the recent aggression by Israel will not go unnoticed" and began mobilizing forces in bases in Southern Syria.
 Russia announced it will not tolerate threats posed on its assets in Syria and declared a major reinforcement of its forces in Syria.
 
-At Israel's urgent request, the UN has authorized the immediate dispatch of CJTF-66 with the hope of deterring its adversaries or support Israel if a conflict should erupt. All forces were put on alert for executing OPERATION EASTERN-HAMMER
+At Israel's urgent request, the UN has authorized the immediate dispatch of CJTF-66 with the hope of deterring its adversaries or support Israel if a conflict should erupt.
+
+Syria and Hezbollah responded by ordering all UN peacekeeping forces (UNDOF in the Golan Heights and UNIFIL in Southern Lebanon to leave the area, else their safety could not be guaranteed.
+
+All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
 **OPERATION EASTERN HAMMER
 **
 
 OPERATION EASTERN HAMMER is a contingency prepared to neutralize a sudden strategic threat to Northern Israel originating from Syria and Lebanon
 The objectives of operation EASTERN HAMMER are as follows:
-1) CONTAINMENT: Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and stratetig infrastructures and facilities.
-
-2) COUNTERING: As needed, launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
+1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and stratetig infrastructures and facilities.
+2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
+3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
 
 
 
 ALLIED GROUND FORCE
+
 INTELLIGENCE
+
 ENEMY GROUND OPPOSITION
+
 ENEMY AIR DEFENSES
+
 ENEMY AIR THREATS
+
 WEATHER
+
 COMMUNICATIONS
+
 SPINS
+
 AIRFIELD INFORMATION
+
 AIRSPACE CONTROL PLAN
+
 TANKERS
+
 AWACS
+
 AIR TASKING ORDER (ATO)
+
 ADMIN
+
 ACKNOWLEDGEMENTS
