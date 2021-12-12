@@ -24,6 +24,11 @@ In addition to the increased presence in Syria, Iranian-funded Hezbollah guerril
 
 With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
 
+Even though the majority of Hezbollah forces are staging in Southern Lebanon, the organization is also present in large numbers further North, where the main effort is to secure the organization's supply lines. Known supply lines include but are not limited to :
+1) Ground supply lines from Syria and Iran via the DAMASCUS-BEIRUT highway
+2) Air transports landing in the various civilian airfields in Lebanon
+3) Sea transports offloading in the sea ports of TRIPOLI and BEIRUT
+
 This buildup of forces was continuing gradually with minor, local skirmishes with IDF (Israeli Defense Force / Israeli military) trying to slow down the buildup of forces and the transfer of advance weapons from Iran to Syria and Lebanon. 
 
 Parallel to the above, Russia has also been using the situation in Syria to its advantage by dispatching air and ground forces and securing the major sea port Tartus as a primary naval base in the Mediterranean.
@@ -64,11 +69,11 @@ TBD
 
 ## INTELLIGENCE
 
+https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn [Syrian ground force structure]
+
 https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3 [Syrian ground combat tactics] 
 
 https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce [Hezbollah - Order of battle and tactics]
-
-TBD - Add Syria ground force
 
 ## ENEMY GROUND OPPOSITION
 
