@@ -51,7 +51,7 @@ All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
 ## OPERATION EASTERN HAMMER
 
-OPERATION EASTERN HAMMER is a contingency prepared to handle a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also mor diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
+OPERATION EASTERN HAMMER is a contingency prepared to handle a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also more diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
 
 The objectives of operation EASTERN HAMMER are as follows:
 
