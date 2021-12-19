@@ -69,11 +69,12 @@ TBD
 
 ## INTELLIGENCE
 
-https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn [Syrian ground force structure]
+[Syrian ground force structure](https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn)
 
-https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3 [Syrian ground combat tactics] 
+[Syrian ground combat tactics](https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3)
 
-https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce [Hezbollah - Order of battle and tactics]
+[Hezbollah - Order of battle and tactics](https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce)
+
 
 ## ENEMY GROUND OPPOSITION
 
