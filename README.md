@@ -61,7 +61,7 @@ The objectives of operation EASTERN HAMMER are as follows:
 
 ## PERIPHERALS:
 
-Both Jordan and Turkey have announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+Jordanת Turkey and Cyprus have all announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
 
 ## ALLIED GROUND FORCE
 
