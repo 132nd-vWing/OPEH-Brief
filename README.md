@@ -80,15 +80,9 @@ TBD
 
 TBD
 
-## ENEMY AIR DEFENSES
+Describe Syrian ground ORBAT
 
-TBD
-
-## ENEMY AIR THREATS
-
-TBD
-
-## WEATHER
+Describe HZB known ORBAT
 
 TBD
 
@@ -103,22 +97,6 @@ Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/C
 TBD
 
 ## AIRFIELD INFORMATION
-
-TBD
-
-## AIRSPACE CONTROL PLAN
-
-TBD
-
-## TANKERS
-
-TBD
-
-## AWACS
-
-TBD
-
-## AIR TASKING ORDER (ATO)
 
 TBD
 
