@@ -95,7 +95,7 @@ TBD
 ## COMMUNICATIONS
 
 All comms and presets for EASTERN HAMMER are identical to those of OPERATION ACTIVE RESOLVE
-Please see [OPAR communications page] (https://132nd-vwing.github.io/OPAR-Brief/COMMUNICATIONS/PRESETS.html) for the frequencies
+Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/COMMUNICATIONS/PRESETS.html) for the frequencies
 
 ## SPINS
 
