@@ -65,7 +65,11 @@ Jordanת Turkey and Cyprus have all announced they would remain neutral in the e
 
 ## ALLIED GROUND FORCE
 
-TBD
+IDF regular army units are deployed along the Northern borders of Syria and Lebanon. Strength two divisions at 70% combat strength.
+
+UN peacekeeping force of the UNIFIL personnel are still manning their outposts along the ISR-LEB border.
+
+UN peacekeeping force of the UNDOF personnel are still manning their outposts along the ISR-SYR border in reduced strength preparing for evacuation to Israeli lines
 
 ## INTELLIGENCE
 
@@ -78,13 +82,25 @@ TBD
 
 ## ENEMY GROUND OPPOSITION
 
-TBD
+# Syrian army:
 
-Describe Syrian ground ORBAT
+The Syrian 5th corps is deployed along the ISR-SYR border still East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
 
-Describe HZB known ORBAT
+5th corps consists primarily of 3 divisions:
 
-TBD
+51st armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
+
+52nd mechanized division is deployed further South.
+
+53rd motorized division is holding a rear position.
+
+Both 51st and 52nd divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 53rd motorized division is presumed to be standing ready to either support either the 51st or 52nd or to exploit success of either of the divisions.
+
+The Syrian 6th corps is deployed further North-East near DAMASCUS. Only indications available are for the 61st armored division staging West of DAMASCUS. This division is presumed to be part of the guard placed around DAMASCUS but is also positioned close to several roads leading from Syria into Lebanon. It is therefore believed that this division can be used to flank the Israeli forces in the Golan and attack from Lebanon soil to the South. This coarse of action (COA) is however not supported by any further data at this time.
+
+# Hezbollah
+
+Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan companies to laumch ground offensives into Israel at this time.
 
 ## COMMUNICATIONS
 
