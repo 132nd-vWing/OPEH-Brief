@@ -82,7 +82,7 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 
 ## ENEMY GROUND OPPOSITION
 
-# Syrian army:
+### Syrian army:
 
 The Syrian 5th corps is deployed along the ISR-SYR border still East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
 
@@ -98,7 +98,7 @@ Both 51st and 52nd divisions are presumed to be staging for an offensive into th
 
 The Syrian 6th corps is deployed further North-East near DAMASCUS. Only indications available are for the 61st armored division staging West of DAMASCUS. This division is presumed to be part of the guard placed around DAMASCUS but is also positioned close to several roads leading from Syria into Lebanon. It is therefore believed that this division can be used to flank the Israeli forces in the Golan and attack from Lebanon soil to the South. This coarse of action (COA) is however not supported by any further data at this time.
 
-# Hezbollah
+### Hezbollah
 
 Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan companies to laumch ground offensives into Israel at this time.
 
