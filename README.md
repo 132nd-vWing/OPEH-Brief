@@ -3,7 +3,7 @@ Briefing material for 132nd Virtual Wing- Operation Eastern Hammer campaign
 
 ## PREFACE 
 
-EASTERN HAMMER is a campaign taking place in the Syria map. The background story is rather closely based on RL events of the past 10 years or so between Israel, Lebanon, Syria, Iran and Russia. With that said, everything from the "2022 escalation" section is pure imagination. Any and all resemblance to RL events from that point are purely coincidental.
+EASTERN HAMMER is a campaign taking place in the Syria map. The background story is mostly (not fully) based on RL events of the past 10 years or so between Israel, Lebanon, Syria, Iran and Russia. With that said, everything from the "2022 escalation" section is pure imagination. Any and all resemblance to RL events from that point are purely coincidental.
 
 Unlike the recent awesome campaigns produced by @Neck and @Evo which made use of the extra layer of immersion of JFACC, EASTERN HAMMER will be run "old fashioned way" with the mission designer (Yours truly) building the ATO and setting up the events of each day of the war. 
 
@@ -19,8 +19,6 @@ Forces loyal to the Syrian president fought against a variaty of militia organiz
 Of the militia groups active in Syria at the time were groups of Iranian-funded merceneries that formed their camps in Southern Syria close to the Syrian-Israeli border. Those groups were Iranian proxy groups intended to shape the conditions for a constant Iranian presence in front of the Israeli border with the intent of being used as an additional front against Israel for deterrance as well as staging combat operations during any future Iranian-Israeli conflict.
 
 With the gradual decline in the civil war and the Syrian military slowly recovering its strength, the Iranian proxies were replaced by a sizeable Iranian expedetionary force composed of armed and mechanized units as well as intelligence gathering assets operating from bases and outposts close to the border and Iranian air-force elements staging in airbases throughout Syria.
-
-In addition to the increased presence in Syria, Iranian-funded Hezbollah guerrilla military has bolstered its forces in the Southern-Lebanon region as well as setting up its own forward bases along the Israeli-Syrian border with the goal of increasing its flexibility in future conflicts against Israel.
 
 With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
 
@@ -100,7 +98,7 @@ The Syrian 6th corps is deployed further North-East near DAMASCUS. Only indicati
 
 ### Hezbollah
 
-Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan companies to laumch ground offensives into Israel at this time.
+Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan commando companies to launch ground offensives into Israel at this time.
 
 ## COMMUNICATIONS
 
@@ -114,7 +112,7 @@ TBD
 
 ## AIRFIELD INFORMATION
 
-TBD
+CJTF assets can stage at RAMAT DAVID and ROSH-PINA
 
 ## ADMIN
 
