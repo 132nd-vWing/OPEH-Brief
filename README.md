@@ -84,19 +84,25 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 
 ### Syrian army:
 
-The Syrian 5th corps is deployed along the ISR-SYR border still East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
+The Syrian 7th corps is deployed along the ISR-SYR border still East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
 
-5th corps consists primarily of 3 divisions:
+7th corps consists primarily of 3 divisions:
 
-51st armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
+71st armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
 
-52nd mechanized division is deployed further South.
+72nd mechanized division is deployed further South.
 
-53rd motorized division is holding a rear position.
+73rd motorized division is holding a rear position.
 
-Both 51st and 52nd divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 53rd motorized division is presumed to be standing ready to either support either the 51st or 52nd or to exploit success of either of the divisions.
+Both 71st and 72nd divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 73rd motorized division is presumed to be standing ready to either support either the 71st or 72nd or to exploit success of either of the divisions.
 
-The Syrian 6th corps is deployed further North-East near DAMASCUS. Only indications available are for the 61st armored division staging West of DAMASCUS. This division is presumed to be part of the guard placed around DAMASCUS but is also positioned close to several roads leading from Syria into Lebanon. It is therefore believed that this division can be used to flank the Israeli forces in the Golan and attack from Lebanon soil to the South. This coarse of action (COA) is however not supported by any further data at this time.
+The Syrian 8th and 9th corps are deployed further North-East around DAMASCUS. The 8th is believed to be a strategic reserve while the 9th is presumed to be guarding DAMASCUS and the Syrian high leadership.
+
+Of the 8th corps, the 81st armored division is identified to be staging West of DAMASCUS. Its location is close to several roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon for two possible objectives:
+
+1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon)
+2)  Advance South to threaten or to attack the Israeli border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
+
 
 ### Hezbollah
 
