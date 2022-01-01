@@ -101,7 +101,7 @@ The Syrian 8th and 9th corps are deployed further North-East around DAMASCUS. Th
 Of the 8th corps, the 81st armored division is identified to be staging West of DAMASCUS. Its location is close to several roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon for two possible objectives:
 
 1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon)
-2)  Advance South to threaten or to attack the Israeli border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
+2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
 
 
 ### Hezbollah
