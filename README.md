@@ -11,7 +11,7 @@ Having said that, the AARs and BDAs collected by each pilot, flight and package 
 
 The campaign will try to stick to a certain chronological pace of events but where needed and given DCS and availability of pilots and roles (And occasionally lack thereof) some adjustment will be made to keep a reasonable pace of action.
 
-## SITUATION
+## ROAD TO WAR
 
 Starting around 2014, a long and bloody civil war errupted in Syria.
 Forces loyal to the Syrian president fought against a variaty of militia organizations throughout Syria. Some of those organizations were fighting for the Syrian people, others were merely taking advantage of the chaos and lack of government control to gain their own territorial advantages.
@@ -34,11 +34,11 @@ With the increase in tension and many forces facing each other, a full scale war
 
 ## THE 2022 ESCALATION
 
-On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was travaling in a Lebanese village when being hit, several civilian casualties were reported.
+On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was crossing the Syrian-Lebanese border and travaling in a Lebanese village when it was being hit by A-G missiles, and several civilian casualties were reported.
 Hezbollah, constantly declaring the safety of Lebanese population as his prime concern, retaliated by launched sevedral SMERCH and GRAD rockets at Israeli population centers from its bases in Lebanon and Syria.
 While most of the rockets were harmlessly intercepted by Iron-Dome air-defense system, there were numerous casualties resulting.
 The IDF increased its readiness along the Northern border as the Israeli Air Force launched a major offensive against the launch sites used by Hezbollah in Syria and Southern Lebanon.
-Iran and Syria quickly issued a joint statement saying that "the recent aggression by Israel will not go unnoticed" and began mobilizing forces in bases in Southern Syria.
+Iran and Syria quickly issued a joint statement saying that "the recent aggression by Israel will not go unanswered". Syria began mobilizing forces in bases in Southern Syria.
 Russia announced it will not tolerate threats posed on its assets in Syria and declared a major reinforcement of its forces in Syria.
 
 At Israel's urgent request, the UN has authorized the immediate dispatch of CJTF-66 with the hope of deterring its adversaries or support Israel if a conflict should erupt.
@@ -49,17 +49,19 @@ All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
 ## OPERATION EASTERN HAMMER
 
-OPERATION EASTERN HAMMER is a contingency prepared to handle a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also more diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
+OPERATION EASTERN HAMMER is a contingency prepared for handling a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also more diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
 
 The objectives of operation EASTERN HAMMER are as follows:
 
-1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and stratetig infrastructures and facilities.
+1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.
 2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
 ## PERIPHERALS:
 
-Jordanת Turkey and Cyprus have all announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+Jordan, Turkey and Cyprus have all announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+
+Jordan is taking steps to increase its military readiness along the Western part of the Jordanian-Syrian border as some cells of ISIS and AL-QAEDA that are still active might try to make use of the escalating situation and try to either relocate into Jordan or attack Jordanian villages or assets near the border.
 
 ## ALLIED GROUND FORCE
 
