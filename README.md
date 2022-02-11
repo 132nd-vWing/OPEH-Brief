@@ -35,7 +35,7 @@ With the increase in tension and many forces facing each other, a full scale war
 ## THE 2022 ESCALATION
 
 On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was crossing the Syrian-Lebanese border and travaling in a Lebanese village when it was being hit by A-G missiles, and several civilian casualties were reported.
-Hezbollah, constantly declaring the safety of Lebanese population as his prime concern, retaliated by launched sevedral SMERCH and GRAD rockets at Israeli population centers from its bases in Lebanon and Syria.
+Hezbollah, constantly declaring the safety of Lebanese population as his prime concern, retaliated by launched several SMERCH and GRAD rockets at Israeli population centers from its bases in Lebanon and Syria.
 While most of the rockets were harmlessly intercepted by Iron-Dome air-defense system, there were numerous casualties resulting.
 The IDF increased its readiness along the Northern border as the Israeli Air Force launched a major offensive against the launch sites used by Hezbollah in Syria and Southern Lebanon.
 Iran and Syria quickly issued a joint statement saying that "the recent aggression by Israel will not go unanswered". Syria began mobilizing forces in bases in Southern Syria.
@@ -51,10 +51,12 @@ All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
 OPERATION EASTERN HAMMER is a contingency prepared for handling a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also more diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
 
-The objectives of operation EASTERN HAMMER are as follows:
+THE OBJECTIVES OF OPERATION "EASTERN HAMMER" ARE AS FOLLOWS:
 
 1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.
+
 2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
+
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
 ## PERIPHERALS:
