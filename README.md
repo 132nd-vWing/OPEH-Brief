@@ -116,9 +116,9 @@ All comms and presets for EASTERN HAMMER are identical to those of OPERATION ACT
 
 Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/COMMUNICATIONS/PRESETS.html) for the frequencies
 
-## SPINS
+## SPINS (SPecial INStructions)
 
-TBD
+[Standing SPINS are found here](https://github.com/132nd-vWing/OPEH-Brief/blob/main/Standing%20SPINs)
 
 ## AIRFIELD INFORMATION
 
