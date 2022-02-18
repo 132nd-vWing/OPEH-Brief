@@ -131,11 +131,10 @@ Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/C
 ## AIRFIELD INFORMATION
 
 Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields
-Carrier based assets will stage from the 
+Carrier based assets will stage from the [CVN-73 George Washington](https://132nd-vwing.github.io/OPEH-Brief/OPEH%20Carrier)
 
 ## ADMIN
-
-TBD
+[Administrative information](https://132nd-vwing.github.io/OPEH-Brief/OPEH%20Admin)
 
 ## ACKNOWLEDGEMENTS
 
