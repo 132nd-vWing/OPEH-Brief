@@ -10,7 +10,7 @@
 
 Syrian air-force TBD
 
-## KNOWN ENEMY GROUND OPPOSITION
+## KNOWN ENEMY GROUND SITUATION
 The following section outlines known starting condition of the Syrian army and the Hezbollah 
 
 ### Syrian army:
