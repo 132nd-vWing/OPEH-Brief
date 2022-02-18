@@ -1,19 +1,15 @@
-# "EASTERN-HAMMER" INTELLIGENCE INFORMATION
+# "EASTERN-HAMMER" INTELLIGENCE INFORMATION - GROUND ORBAT
 
-## BACKGROUND INTELLIGENCE
 
+## Syrian army:
+
+### Syrian ground force structure
 [Syrian ground force structure](https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn)
 
+### Syrian ground combat tactics
 [Syrian ground combat tactics](https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3)
 
-[Hezbollah - Order of battle and tactics](https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce)
-
-Syrian air-force TBD
-
-## ENEMY GROUND ORBAT (ORder of BATtle)
-The following section outlines known starting condition of the Syrian army and the Hezbollah 
-
-### Syrian army:
+### Syrian army opening condition
 
 The Syrian 7th corps is deployed along the ISR-SYR border still East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
 
@@ -34,6 +30,10 @@ Of the 8th corps, the 81st armored division is identified to be staging West of 
 1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon)
 2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
 
+
+## Hezbollah
+### Hezbollah's ORBAT and tactics
+[Hezbollah - Order of battle and tactics](https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce)
 
 ### Hezbollah
 Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan commando companies to launch ground offensives into Israel at this time.
