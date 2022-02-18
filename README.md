@@ -25,9 +25,9 @@ With the gradual decline in the civil war and the Syrian military slowly recover
 With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
 
 Even though the majority of Hezbollah forces are staging in Southern Lebanon, the organization is also present in large numbers further North, where the main effort is to secure the organization's supply lines. Known supply lines include but are not limited to :
-1) Ground supply lines from Syria and Iran via the DAMASCUS-BEIRUT highway
-2) Air transports landing in the various civilian airfields in Lebanon
-3) Sea transports offloading in the sea ports of TRIPOLI and BEIRUT
+1) Ground supply lines from Syria and Iran via the DAMASCUS-BEIRUT highway <br>
+2) Air transports landing in the various civilian airfields in Lebanon <br>
+3) Sea transports offloading in the sea ports of TRIPOLI and BEIRUT <br>
 
 This buildup of forces was continuing gradually with minor, local skirmishes with IDF (Israeli Defense Force / Israeli military) trying to slow down the buildup of forces and the transfer of advance weapons from Iran to Syria and Lebanon. 
 
@@ -55,11 +55,9 @@ OPERATION EASTERN HAMMER is a contingency prepared for handling a rapidly emergi
 
 THE OBJECTIVES OF OPERATION "EASTERN HAMMER" ARE AS FOLLOWS:
 
-1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.
-
-2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)
-
-3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
+1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.<br>
+2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)<br>
+3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.<br>
 
 ## SITUATION - PERIPHERALS
 
@@ -84,11 +82,11 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 
 ## INTELLIGENCE
 
-### Enemy ground forces - starting ORBAT (ORder of BATtle)
-[Enemy ground forces - starting ORBAT](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20GROUND)
+### Enemy ground forces
+[Enemy ground forces - combat tactics and situation](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20GROUND)
 
-### Enemy air forces - starting ORBAT
-TBD
+### Enemy air forces
+[Enemy air forces - combat tactics and situation](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20AIR)
 
 ## COMMUNICATIONS
 
