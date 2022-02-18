@@ -1,7 +1,7 @@
 # "EASTERN-HAMMER" INTELLIGENCE INFORMATION - 
 # GROUND ORBAT (ORDER OF BATTLE)
 
-## Syrian army:
+## Syrian army
 
 ### Syrian ground force structure
 [Syrian ground force structure](https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn)
@@ -38,7 +38,7 @@ Of the 8th corps, the 81st armored division is identified to be staging West of 
 ### Hezbollah as of D+0
 Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan commando companies to launch ground offensives into Israel at this time.
 
-## Iran
+## Iranian army
 ### Iranian army's combat tactics
 Iraian's army is trained in a similar manner to Syrian army and both are basing on Russian doctrine and equipment
 
