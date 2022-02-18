@@ -1,4 +1,4 @@
-# OPEH-Brief
+# OPERATION "EASTERN-HAMMER" - Briefing
 Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
 
 Last updated: 18-Feb-2022
