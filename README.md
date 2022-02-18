@@ -118,7 +118,7 @@ Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/C
 
 ## SPINS (SPecial INStructions)
 
-[Standing SPINS are found here](https://github.com/132nd-vWing/OPEH-Brief/blob/main/Standing%20SPINs)
+[Standing SPINS are found here](https://github.com/132nd-vWing/OPEH-Brief/blob/main/SPINSTEST.md)
 
 ## AIRFIELD INFORMATION
 
