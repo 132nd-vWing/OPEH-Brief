@@ -101,7 +101,7 @@ Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/C
 ## AIRFIELD INFORMATION
 
 ### Land based aircraft
-Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields
+Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields <br>
 DCS ground charts are in use
 
 ### Carrier based aircraft
