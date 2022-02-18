@@ -10,7 +10,7 @@
 
 Syrian air-force TBD
 
-## KNOWN ENEMY GROUND SITUATION
+## ENEMY GROUND ORBAT (ORder of BATtle)
 The following section outlines known starting condition of the Syrian army and the Hezbollah 
 
 ### Syrian army:
