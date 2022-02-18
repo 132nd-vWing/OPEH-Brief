@@ -24,7 +24,7 @@ Notification of changes will be made on the event page of each OPEH mission
 
 # 2 General Information
 
-##2.1 Timezone
+## 2.1 Timezone
 Timezone for all timings will be given in one of the following timings:
 - ZULU time (Z): Real world Zulu time (UTC)
 - Game time (G): In-game local time
