@@ -1,5 +1,7 @@
 # OPEH-Brief
-Briefing material for 132nd Virtual Wing- Operation Eastern Hammer campaign
+Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
+
+Last updated: 18-Feb-2022
 
 ## PREFACE 
 
@@ -47,7 +49,7 @@ Syria and Hezbollah responded by ordering all UN peacekeeping forces (UNDOF in t
 
 All CJTF forces were put on alert for executing OPERATION EASTERN-HAMMER
 
-## OPERATION EASTERN HAMMER
+## OPERATION EASTERN-HAMMER
 
 OPERATION EASTERN HAMMER is a contingency prepared for handling a rapidly emerging strategic threat to Northern Israel originating from Syria. The operation order assumes that hostilities breaking out between Israel Syria are likely to escalate and expand to the Lebanon front as well - more likely so with Iran pulling its strings and triggering Hezbollah into starting its own front thus forcing Israel and its allies to fight on a much broader frontline. In addition to a longer and more geographically complex frontline (Differences of terrain between Israeli-Lebanese and Israeli-Syrian border lines) the nature of the threats is also more diverse: regular army, air force and naval forces from Syria (And Iran) compared to guerrilla and asymmetrical warfare presented by Hezbollah.
 
@@ -59,11 +61,18 @@ THE OBJECTIVES OF OPERATION "EASTERN HAMMER" ARE AS FOLLOWS:
 
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.
 
-## PERIPHERALS:
+## SITUATION - PERIPHERALS
 
-Jordan, Turkey and Cyprus have all announced they would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+### Jordan
+The Kingdom of Jordan has announced it would remain neutral in the evolving conflict and do not approve the use of its airspace for combat activities but only for humanitarian purposes as needed.
 
 Jordan is taking steps to increase its military readiness along the Western part of the Jordanian-Syrian border as some cells of ISIS and AL-QAEDA that are still active might try to make use of the escalating situation and try to either relocate into Jordan or attack Jordanian villages or assets near the border.
+
+### Turkey
+Turkey has announced it would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+
+### Cyprus
+Cyprus has announced it would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
 
 ## ALLIED GROUND FORCE
 
@@ -107,7 +116,6 @@ Of the 8th corps, the 81st armored division is identified to be staging West of 
 
 
 ### Hezbollah
-
 Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using Raduan commando companies to launch ground offensives into Israel at this time.
 
 ## COMMUNICATIONS
@@ -122,7 +130,8 @@ Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/C
 
 ## AIRFIELD INFORMATION
 
-CJTF assets can stage at RAMAT DAVID and ROSH-PINA
+Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields
+Carrier based assets will stage from the 
 
 ## ADMIN
 
