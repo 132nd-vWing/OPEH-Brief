@@ -1,6 +1,5 @@
 # SPECIAL INSTRUCTIONS (SPINS)
 This is the standing SPINS for Operation EASTERN-HAMMER <br>
-<br>
 
 DISCLAIMER:
 This is for multiplayer online gaming using the Digital Combat Systems simulation software published by Eagle Dynamics. The
@@ -30,38 +29,43 @@ Timezone for all timings will be given in one of the following timings:
 - ZULU time (Z): Real world Zulu time (UTC)
 - Game time (G): In-game local time
 
-##2.2 Standard Units
-2.2.1 Positions Positions will be given in the following format: LAT/LONG: DD°MM.MMM' DDD°MM.MMM'
-2.2.2 Distance
+## 2.2 Standard Units
+
+### 2.2.1 Positions 
+Positions will be given in the following format: LAT/LONG: DD°MM.MMM' DDD°MM.MMM'
+
+### 2.2.2 Distance
 Distance will be given in nautical miles.
-2.2.3 Elevation
+
+### 2.2.3 Elevation
 Elevation will be given in feet AMSL unless otherwise stated
-2.3 Reference documents
-2.3.1 Close Air Support (CAS)
+
+## 2.3 Reference documents
+### 2.3.1 Close Air Support (CAS)
 The following document outlines how CAS is conducted in OPAR:
-132-TTP-1 CAS Manual v1.2
-2.3.2 Armed Reconnaissance (AR)
+[132-TTP-1 CAS Manual v1.2](https://cloud.132virtualwing.org/s/kQAMrnwr5ZJQRCn)
+
+### 2.3.2 Armed Reconnaissance (AR)
 The following document outlines how AR is conducted in OPAR:
-132-TTP-12 Armed Reconnaissance v1.0
-2.3.3 Strike Coordination And Reconnaissance (SCAR)
+[132-TTP-12 Armed Reconnaissance v1.0](https://cloud.132virtualwing.org/s/TJ2GHraHAoFkPXi)
+
+### 2.3.3 Strike Coordination And Reconnaissance (SCAR)
 The following document outlines how SCAR is conducted in OPAR:
-132-TTP-6 SCAR v2.0
-2.3.4 Air Interdiction (AI)
+[132-TTP-6 SCAR v2.0](https://cloud.132virtualwing.org/s/DnfTB2JKWJqZqQH)
+
+### 2.3.4 Air Interdiction (AI)
 The following document outlines how AI operations are conducted in OPAR:
-132-TTP-13 Air Interdiction v1.0
-2.3.5 AWACS
+[132-TTP-13 Air Interdiction v1.0 ](https://cloud.132virtualwing.org/s/MknWCGRwTHDXMXB)
+
+### 2.3.5 AWACS
 The following document outlines how integration and cooperation with AWACS is conducted in OPAR:
-132-TTP-10-AWACS Procedures v2.0
-JFACC
-OP ACTIVE RESOLVE
-SPINS v2.1
-DISCLAIMER:
-This is for multiplayer online gaming using the Digital Combat Systems simulation software published by Eagle Dynamics. The
-information is not in any way suitable for real world use or operations.
-2.4 ATO publication
+[132-TTP-10-AWACS Procedures v2.0](https://cloud.132virtualwing.org/s/AqHeKjJ39cE25mT)
+
+## 2.4 ATO publication
 ATO will be published at: http://132virtualwing.org/index.php/page/ato
-Note that the ATO is visible 72 hours before event start.
-3 Command, Control and Communications (C3)
+Note that the ATO is visible around 72 hours before event start.
+
+# 3 Command, Control and Communications (C3)
  During operations flightleads will be responsible for their flights.
  During operations package commanders will be in charge of a package of flights
  On AR missions with multiple flights, AR flights will normally be directed by a SCAR flight. If not SCAR flight is present, best suited flight should assume the role of SCAR to coordination the operation ensure safe and effective operations.
