@@ -84,6 +84,11 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 
 ## INTELLIGENCE
 
+### Intelligence for EASTERN HAMMER D+0
+TBD
+
+### Background intalligence
+
 [Syrian ground force structure](https://cloud.132virtualwing.org/s/s76MQkpKEy4pKFn)
 
 [Syrian ground combat tactics](https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3)
