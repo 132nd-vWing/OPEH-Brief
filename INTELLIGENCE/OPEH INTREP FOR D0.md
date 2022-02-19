@@ -29,3 +29,11 @@ As of now we do not recognize involvement of Iranian forces close to the Israeli
 Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using RADUAN commando companies to launch ground offensives into Israel at this time. Our sources believe that for the near future HZB will opt to continue harassing Israeli border area with indirect artillery fire rather than launching its own ground maneuvers. This, however, could chance as the crisis evolves.
 
 ## ENEMY AIR FORCE SITUATION
+### SYRIAN AIR ASSETS
+
+TBDTBDTBDTBDTBDTBDTBDTBDTBD
+
+AIR-TO-AIR ASSETS deployment
+AIR-TO-GROUND ASSETS deployment
+
+TBDTBDTBDTBDTBDTBDTBDTBDTBD
