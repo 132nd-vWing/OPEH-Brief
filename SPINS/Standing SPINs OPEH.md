@@ -86,7 +86,7 @@ Group ID’s is assigned per SQN. 617th Uses 31-35. Other squadrons use 36-39. F
 Authentication will be conducted with AET-100. Backup is RAMROD
 
 ### 3.1.4 RAMROD
-Even days (2,4,6,8): LUMBERJACK
+Even days (2,4,6,8): LUMBERJACK </br>
 Odd days (1,3,5,7): COMPLEXITY
 
 ### 3.1.5 Transmission authentication
