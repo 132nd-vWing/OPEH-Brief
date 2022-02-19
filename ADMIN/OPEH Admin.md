@@ -39,14 +39,14 @@ The following documents provides necessary information <br>
 ## Credits
 Thanks for the great contributions from the DCS community, and to highlight a few of the most important ones for the 132nd:
 - MIST (Speed&Grimes) <br>
-- FlightControl for MOOSE: https://flightcontrol-master.github.io/MOOSE_DOCS/ 
+- FlightControl for [MOOSE](https://flightcontrol-master.github.io/MOOSE_DOCS/)
 - CTLD <br>
-- funkyfranky for the Range Script 
-- 476th Noodle and Stuka for the 476th range targets: http://www.476vfightergroup.com/downloads.php?do=file&id=287 
-- DArt for LotATC: https://www.lotatc.com/ 
-- Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251
-- Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620 
+- funkyfranky for the Range Script
+- 476th Noodle and Stuka for the [476th range targets](http://www.476vfightergroup.com/downloads.php?do=file&id=287)
+- DArt for [LotATC](https://www.lotatc.com/)
+- Upaut for various Mods: [https://forums.eagle.ru/showthread.php?t=124251](https://forums.eagle.ru/showthread.php?t=124251)
+- Ranger79 for various mods: [https://forums.eagle.ru/showthread.php?t=121620](https://forums.eagle.ru/showthread.php?t=121620)
 - Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use.
-- sadjad-vosoul for his Iranian skin's (https://forums.eagle.ru/showthread.php?t=216906 )
-- Ciribob for SRS: https://forums.eagle.ru/showthread.php?t=169387
+- sadjad-vosoul for his [Iranian skins](https://forums.eagle.ru/showthread.php?t=216906)
+- Ciribob for [SRS - Simple Radio Standalone](https://forums.eagle.ru/showthread.php?t=169387)
 - Eight Ball for F-16 skin, tailored for the  388th.
