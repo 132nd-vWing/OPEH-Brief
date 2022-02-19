@@ -36,4 +36,9 @@ The Western edge of the GOLAN is made out of steep slopes descending towards the
 Ground movement from the GOLAN to the HULA valley is only possible via a small selection of roads. Some of those roads cross the Jordan river (dividing the center of the HULA valley) to the West into the Galilee region.
 The bridges and roads climbing from the valley to the GOLAN are of critical importance as they serve as key MSRs for troops, logistic lines and reinforcements.
 
-The North-Eastern side of the HERMON marks the triangle of borders between Israel, Syria and Lebanon. The ISR-LEB border extends to the West through the HULA valley up to Mount TSEFIA. From there, the border proceeds South and bends West again along a ridgeline all the way to the Mediterrainian coastline.
+The North-Eastern side of the HERMON marks the triangle of borders between Israel, Syria and Lebanon. The Israeli-Lebanese border extends to the West through the HULA valley up to Mount TSEFIA. From there, the border proceeds South and bends West again along a ridgeline all the way to the Mediterrainian coastline.
+
+The ISR-LEB border between Mount TZEFIA and the Western edge of the GOLAN slopes is a relatively flat terrain allowing nearly unrestricted movement between Israel and Lebanon. However the West side of the HULA valley is bordering with the Galilee area which is typically composed of very rough terrain and is only passable by roads. The same terrain extends further North into Southern Lebanon as well.
+
+The ISR-LEB border is , too, overseen by a UN peacekeeping force called UNIFIL (United Nations Interim Force In Lebanon). As is in the Syrian border, UNIFIL also stages its personnel in outposts and conducts mobile patrols along the border to inspect ceasefire violations between Hezbollah and Israel.
+(NOTE - the Lebanese official authorities have little ability to govern the Southern-Lebanona area and Hezbollah organization is the major armed force South of the LITANI River in Lebanon)
