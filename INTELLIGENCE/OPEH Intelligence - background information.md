@@ -6,7 +6,7 @@
 
 [Syrian ground combat tactics](https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3)
 
-SYRIAN AIR FORCE STRUCTURE TBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBDTBD
+[SYRIAN AIR FORCE STRUCTURE](https://132nd-vwing.github.io/OPAR-Brief/INTELLIGENCE/VID/INTREP%20VID%20B-002%20Generic%20Air%20Force%20Structure.pdf)
 
 ### HEZBOLLAH BACKGROUND INFORMATION
 [Hezbollah - Order of battle and tactics](https://cloud.132virtualwing.org/s/NBWAa2mB4ByHwce)
