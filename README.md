@@ -88,12 +88,7 @@ Non-changing information and background regarding our adveseries
 
 ### INTELLIGENCE REPORT FOR D+0 TBD
 [INTREP UPDATED FOR D+0](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20INTREP%20FOR%20D0)
-     
-### Enemy ground forces
-[Enemy ground forces - combat tactics and situation](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20GROUND)
 
-### Enemy air forces
-[Enemy air forces - combat tactics and situation](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20AIR)
 
 ## COMMUNICATIONS
 
