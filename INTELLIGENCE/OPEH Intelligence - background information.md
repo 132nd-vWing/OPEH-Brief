@@ -18,7 +18,7 @@ Iraian's army is trained in a similar manner to Syrian army and both are basing 
 
 Following is a general overview of the theater for EASTERN-HAMMER
 
-## TERRAIN AND IMPORTANCE
+## TERRAIN AND MILITARY ASPECTS
 The Golan Heights is a geographical area divided between Israel and Syria.
 The Southern side of the GOLAN is mostly a flat plateu, elevation between 1000-1500ft MSL. Aside of some valleys and rivers flowing to the WEST, this area of the GOLAN is mostly passable for vehicles although movement can be made faster over paved and gravel roads in the area.
 The Northern area of the GOLAN, however, is more elevated at around 2500-3000ft MSL and is composed of rough terrain limiting travel mostly to roads.
@@ -28,9 +28,12 @@ The Israeli Defense Force (IDF) has several fortified outposts housing SIGINT, E
 
 Throughout the GOLAN are several smaller mountains called TELs which are mostly dormant volcanos. Those mountains are arrayed roughly on two parallel North-South lines. The Western line is inside the Israely side of the GOLAN while the Eastern line is in Syria. Most of those hills offer very good vantage points providing good cover of their surroundings for observation and fire. Some of those hills house fortified military outposts for intelligence, air defense as well as firing positions for armored forces.
 
-In 1974 as part of the ceasefire agreements, a buffer zone was established between Syria and Israel where no military presence is permitted to either side. The ceasefire is since been enforced by a UN peacekeeping force called UNDOF (United Nations Disangagement Observer Force). UNDOF troops are holding an array of outposts along the border as well as patrols along both sides of the border.
-Additional to the DMZ, both sides are committed to limit the quantity and type of armed forces close to the border so that to prevent a possibility of one side massing troops for any offensive actions.
+In 1974 as part of the ceasefire agreements, a buffer zone was established between Syria and Israel where no military presence is permitted to either side. The ceasefire is since been enforced by a UN peacekeeping force called UNDOF (United Nations Disangagement Observer Force). UNDOF troops are holding an array of outposts along the border as well as patrols along both sides of the border. The buffer zone is specified between two lines called "UNDOF line ALPHA" which is the Western edge of the buffer zone, and "UNDOF line BRAVO" which constitutes the Eastern edge of the zone.
+
+Additional to the buffer zone, both sides are committed to limit the quantity and type of armed forces close to the border so that to prevent a possibility of one side massing troops for any offensive actions. For this reason most of the outposts and firing positions along the border are usually unmanned or lightly manned.
 
 The Western edge of the GOLAN is made out of steep slopes descending towards the HULA Valley which runs from the Sea of Galilee and further North into Lebanon and Syria.
 Ground movement from the GOLAN to the HULA valley is only possible via a small selection of roads. Some of those roads cross the Jordan river (dividing the center of the HULA valley) to the West into the Galilee region.
 The bridges and roads climbing from the valley to the GOLAN are of critical importance as they serve as key MSRs for troops, logistic lines and reinforcements.
+
+The North-Eastern side of the HERMON marks the triangle of borders between Israel, Syria and Lebanon. The ISR-LEB border extends to the West through the HULA valley up to Mount TSEFIA. From there, the border proceeds South and bends West again along a ridgeline all the way to the Mediterrainian coastline.
