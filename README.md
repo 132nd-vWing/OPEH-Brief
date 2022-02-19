@@ -84,10 +84,10 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 
 ### BACKGROUND AND STANDING INTELLIGENCE INFORMATION
 Non-changing information and background regarding our adveseries
-[INTELLIGENCE/OPEH Intelligence - background information](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH Intelligence - background information)
+[INTELLIGENCE/OPEH Intelligence - background information](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20background%20information)
 
 ### INTELLIGENCE REPORT FOR D+0 TBD
-[INTREP UPDATED FOR](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/ OPEH INTREP FOR D0)
+[INTREP UPDATED FOR](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20INTREP%20FOR%20D0)
      
 ### Enemy ground forces
 [Enemy ground forces - combat tactics and situation](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20GROUND)
