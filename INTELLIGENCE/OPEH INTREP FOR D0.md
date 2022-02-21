@@ -7,17 +7,17 @@ The Syrian 2nd corps is deployed along the ISR-SYR border. As of now all enemy f
 
 2nd corps consists primarily of 3 divisions:
 
-21st armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
+20th armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
 
-22nd mechanized division is deployed further South.
+21st mechanized division is deployed further South.
 
-23rd motorized division is holding a rear position.
+22nd motorized division is holding a rear position.
 
-Both 21st and 22nd divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 23rd motorized division is presumed to be standing ready to either support either the 21st or 22nd or to exploit success of either of the divisions.
+Both 20th armored and 21st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 21st or 22nd or to exploit success of either of the divisions.
 
-The Syrian 1st and 3rd corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 3rd is presumed to be guarding DAMASCUS and the Syrian high leadership.
+The Syrian 1st corps and 3rd corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 3rd is presumed to be guarding DAMASCUS and the Syrian high leadership.
 
-Of the 1st corps, the 11th armored division is identified to be staging West of DAMASCUS. Its location is close to several key roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon with intent to pursue one of two possible objectives:
+Of the 1st corps, the 10th armored division is identified to be staging West of DAMASCUS. Its location is close to several key roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon with intent to pursue one of two possible objectives:
 
 1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon) <br>
 2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
