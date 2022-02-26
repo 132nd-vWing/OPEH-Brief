@@ -83,7 +83,8 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 ## INTELLIGENCE
 
 ### BACKGROUND AND STANDING INTELLIGENCE INFORMATION
-Non-changing information and background regarding our adveseries
+Non-changing information and background regarding our adveseries:
+
 [INTELLIGENCE/OPEH Intelligence - background information and terrain overview](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20background%20information)
 
 ### INTELLIGENCE REPORT FOR D+0 TBD
