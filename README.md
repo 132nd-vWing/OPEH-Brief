@@ -1,7 +1,7 @@
 # OPERATION "EASTERN-HAMMER" - Briefing
 Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
 
-Last updated: 18-Feb-2022
+Last updated: 26-Feb-2022
 
 ## PREFACE 
 
