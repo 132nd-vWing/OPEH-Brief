@@ -45,4 +45,9 @@ The ISR-LEB border between Mount TZEFIA and the Western edge of the GOLAN slopes
 The ISR-LEB border is , too, overseen by a UN peacekeeping force called UNIFIL (United Nations Interim Force In Lebanon). As is in the Syrian border, UNIFIL also stages its personnel in outposts and conducts mobile patrols along the border to inspect ceasefire violations between Hezbollah and Israel.
 (NOTE - the Lebanese official authorities have little ability to govern the Southern-Lebanona area and Hezbollah organization is the major armed force South of the LITANI River in Lebanon)
 
+#### THEATER GENERAL MAP
+[For a higher-resolution map click here](https://cloud.132virtualwing.org/s/9pmzPWnN2d2GM3Q)
+
 ![OPEH THEATER GENERAL FAMILIARIZATION 20-FEB-2022](https://user-images.githubusercontent.com/42184209/154860535-1d65521c-4b38-4e3e-bd03-966dd832d8e4.png)
+
+
