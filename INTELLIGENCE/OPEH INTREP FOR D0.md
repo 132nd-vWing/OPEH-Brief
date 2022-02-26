@@ -31,9 +31,17 @@ Very little intelligence available of HZB activities. Indications are that HZB i
 ## ENEMY AIR FORCE SITUATION
 ### SYRIAN AIR ASSETS
 
-TBDTBDTBDTBDTBDTBDTBDTBDTBD
+Syrian air force is presumably intending to allocate two air divisions to support the operation against Israel.
 
-AIR-TO-AIR ASSETS deployment
-AIR-TO-GROUND ASSETS deployment
+#### The 51st Air Defense Division
 
-TBDTBDTBDTBDTBDTBDTBDTBDTBD
+The 51st Air Defense Division has its regiments deployed in the airbases around DAMASCUS. Those regiments operate mostly MIG-23s , MIG-25s and MIG29s
+Most regiments of the 51st are currently at LOW READINESS and still undergo maintenance in preparation for launching the offensive.
+We estimate QRA flights at +5 at MARJ-RUHAYYIL and AL-DUMAYR airbases.
+
+#### The 52nd Bomber Division
+
+The 52nd Bomber Division is deployed primarily in the airbases North-East of DAMASCUS. The 52nd's regiments operate SU-24s, SU-17s and SU-25s
+Most regiments of the 52nd are currently at LOW READINESS and still undergo maintenance in preparation for launching the offensive.
+
+
