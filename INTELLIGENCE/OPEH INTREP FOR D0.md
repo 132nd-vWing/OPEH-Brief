@@ -22,7 +22,7 @@ Of the 1st corps, the 10th armored division is identified to be staging West of 
 1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon) <br>
 2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
 
-### IRANIAN FORCES IN THE SYRIAN FRONT
+#### IRANIAN FORCES IN THE SYRIAN FRONT
 As of now we do not recognize involvement of Iranian forces close to the Israeli border. We estimate that small Iranian forces are currently holding defensive position to defend Iranian interests on Syrian soil.
 
 ## LEBANESSE FRONT / HEZBOLLAH
