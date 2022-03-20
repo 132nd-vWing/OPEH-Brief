@@ -1,7 +1,7 @@
 # OPERATION "EASTERN-HAMMER" - Briefing
 Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
 
-Last updated: 26-Feb-2022
+Last updated: 20-Mar-2022
 
 ## PREFACE 
 
@@ -15,28 +15,29 @@ The campaign will try to stick to a certain chronological pace of events but whe
 
 ## ROAD TO WAR
 
-Starting around 2014, a long and bloody civil war errupted in Syria.
-Forces loyal to the Syrian president fought against a variaty of militia organizations throughout Syria. Some of those organizations were fighting for the Syrian people, others were merely taking advantage of the chaos and lack of government control to gain their own territorial advantages.
+Starting around 2014, a long and bloody civil war erupted in Syria.
+Forces loyal to the Syrian president fought against a variety of militia organizations throughout Syria. Some of those organizations were fighting for the Syrian people, others were merely taking advantage of the chaos and lack of government control to gain their own territorial advantages.
 
-Of the militia groups active in Syria at the time were groups of Iranian-funded merceneries that formed their camps in Southern Syria close to the Syrian-Israeli border. Those groups were Iranian proxy groups intended to shape the conditions for a constant Iranian presence in front of the Israeli border with the intent of being used as an additional front against Israel for deterrance as well as staging combat operations during any future Iranian-Israeli conflict.
+Of the militia groups active in Syria at the time were groups of Iranian-funded mercenaries that formed their camps in Southern Syria close to the Syrian-Israeli border. Those groups were Iranian proxy groups intended to shape the conditions for a constant Iranian presence in front of the Israeli border with the intent of being used as an additional front against Israel for deterrence as well as staging combat operations during any future Iranian-Israeli conflict.
 
-With the gradual decline in the civil war and the Syrian military slowly recovering its strength, the Iranian proxies were replaced by a sizeable Iranian expedetionary force composed of armed and mechanized units as well as intelligence gathering assets operating from bases and outposts close to the border and Iranian air-force elements staging in airbases throughout Syria.
+With the gradual decline in the civil war and the Syrian military slowly recovering its strength, the Iranian proxies were replaced by a sizeable Iranian expeditionary force composed of armed and mechanized units as well as intelligence gathering assets operating from bases and outposts close to the border and Iranian air-force elements staging in airbases throughout Syria.
 
-With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
+With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withdrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
 
-Even though the majority of Hezbollah forces are staging in Southern Lebanon, the organization is also present in large numbers further North, where the main effort is to secure the organization's supply lines. Known supply lines include but are not limited to :
+Although the majority of Hezbollah forces are staging in Southern Lebanon, the organization is also present in large numbers further North, where the main effort is to secure the organization's supply lines. Known supply lines include but are not limited to :
+
 1) Ground supply lines from Syria and Iran via the DAMASCUS-BEIRUT highway <br>
 2) Air transports landing in the various civilian airfields in Lebanon <br>
 3) Sea transports offloading in the sea ports of TRIPOLI and BEIRUT <br>
 
 This buildup of forces was continuing gradually with minor, local skirmishes with IDF (Israeli Defense Force / Israeli military) trying to slow down the buildup of forces and the transfer of advance weapons from Iran to Syria and Lebanon. 
 
-Parallel to the above, Russia has also been using the situation in Syria to its advantage by dispatching air and ground forces and securing the major sea port Tartus as a primary naval base in the Mediterranean.
-With the increase in tension and many forces facing each other, a full scale war was only a matter of time.
+Parallel to the above, Russia has also been using the situation in Syria to its advantage by dispatching air and ground forces and securing the major seaport of Tartus as a primary naval base in the Mediterranean.
+With the increase in tension and many forces facing each other, a full-scale war was only a matter of time.
 
 ## THE 2022 ESCALATION
 
-On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was crossing the Syrian-Lebanese border and travaling in a Lebanese village when it was being hit by A-G missiles, and several civilian casualties were reported.
+On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was crossing the Syrian-Lebanese border and traveling in a Lebanese village when it was being hit by A-G missiles, and several civilian casualties were reported.
 Hezbollah, constantly declaring the safety of Lebanese population as his prime concern, retaliated by launched several SMERCH and GRAD rockets at Israeli population centers from its bases in Lebanon and Syria.
 While most of the rockets were harmlessly intercepted by Iron-Dome air-defense system, there were numerous casualties resulting.
 The IDF increased its readiness along the Northern border as the Israeli Air Force launched a major offensive against the launch sites used by Hezbollah in Syria and Southern Lebanon.
@@ -55,8 +56,8 @@ OPERATION EASTERN HAMMER is a contingency prepared for handling a rapidly emergi
 
 THE OBJECTIVES OF OPERATION "EASTERN HAMMER" ARE AS FOLLOWS:
 
-1) Contain enemy offensive efforts while minimizing teritorrial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.<br>
-2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withrawl as conditions dictate)<br>
+1) Contain enemy offensive efforts while minimizing territorial losses and maintaining security to Israeli population centers and strategic infrastructures and facilities.<br>
+2) Ensuring safety of UN forces in the conflict area (Defending position or enabling safe withdrawal as conditions dictate)<br>
 3) Launch offensive efforts by air and/or land and/or sea aimed at disrupting enemy maneuvers and combat effectiveness. Offensive efforts are limited only to improve tactical situation in the battlefield for the duration of the conflict.<br>
 
 ## SITUATION - PERIPHERALS
@@ -83,7 +84,7 @@ UN peacekeeping force of the UNDOF personnel are still manning their outposts al
 ## INTELLIGENCE
 
 ### BACKGROUND AND STANDING INTELLIGENCE INFORMATION
-Non-changing information and background regarding our adveseries:
+Non-changing information and background regarding our adversaries:
 
 [INTELLIGENCE/OPEH Intelligence - background information and terrain overview](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20background%20information)
 
