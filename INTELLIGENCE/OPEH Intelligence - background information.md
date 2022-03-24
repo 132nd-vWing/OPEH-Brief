@@ -46,7 +46,7 @@ The ISR-LEB border is, too, overseen by a UN peacekeeping force called UNIFIL (U
 (NOTE - the Lebanese official authorities have little ability to govern the Southern-Lebanon area and Hezbollah organization is the major armed force South of the LITANI River in Lebanon)
 
 #### THEATER GENERAL MAP
-[For a higher-resolution map click here](https://cloud.132virtualwing.org/s/9pmzPWnN2d2GM3Q)
+[For a higher-resolution (Filesize ~60mb) map click here](https://cloud.132virtualwing.org/s/kiprpm8CZZ9LLa5)
 
 ![OPEH THEATER GENERAL FAMILIARIZATION 24-MAR-2022](https://user-images.githubusercontent.com/42184209/160009360-730fc8e6-48d6-408e-ad7b-4f91510131e4.png)
 
