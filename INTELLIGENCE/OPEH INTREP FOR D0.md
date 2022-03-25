@@ -3,7 +3,7 @@
 ## ENEMY GROUND FORCE SITUATION
 
 ### SYRIAN FRONT
-The Syrian 2nd corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone)
+The Syrian 2nd corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone or "UNDOF ZONE")
 
 2nd corps consists primarily of 3 divisions:
 
@@ -21,6 +21,9 @@ Of the 1st corps, the 10th armored division is identified to be staging West of 
 
 1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon) <br>
 2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
+
+![Uploading OPEH THEATER D0v1.png…]()
+
 
 #### IRANIAN FORCES IN THE SYRIAN FRONT
 As of now we do not recognize involvement of Iranian forces close to the Israeli border. We estimate that small Iranian forces are currently holding defensive position to defend Iranian interests on Syrian soil.
