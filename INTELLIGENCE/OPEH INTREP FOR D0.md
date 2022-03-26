@@ -5,17 +5,17 @@
 ### SYRIAN FRONT
 The Syrian 2nd corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone or "UNDOF ZONE")
 
-2nd corps consists primarily of 3 divisions:
+3rd corps consists primarily of 3 divisions:
 
-20th armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
+30th armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
 
-21st mechanized division is deployed further South.
+31st mechanized division is deployed further South.
 
-22nd motorized division is holding a rear position.
+32nd motorized division is holding a rear position.
 
-Both 20th armored and 21st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 21st or 22nd or to exploit success of either of the divisions.
+Both 30th armored and 31st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 31st or 32nd or to exploit success of either of the divisions.
 
-The Syrian 1st corps and 3rd corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 3rd is presumed to be guarding DAMASCUS and the Syrian high leadership.
+The Syrian 1st corps and 5th corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 5th is presumed to be guarding DAMASCUS and the Syrian high leadership.
 
 Of the 1st corps, the 10th armored division is identified to be staging West of DAMASCUS. Its location is close to several key roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon with intent to pursue one of two possible objectives:
 
