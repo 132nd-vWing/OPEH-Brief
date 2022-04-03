@@ -88,7 +88,8 @@ Non-changing information and background regarding our adversaries:
 
 [INTELLIGENCE/OPEH Intelligence - background information and terrain overview](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20background%20information)
 
-### INTELLIGENCE REPORT FOR D+0 TBD
+### INTELLIGENCE REPORT FOR D+0
+(Updated 03APR2022)
 [INTREP UPDATED FOR D+0](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20INTREP%20FOR%20D0)
 
 
