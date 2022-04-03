@@ -11,7 +11,7 @@ For the past several days, the situation is that of a low-intensity warfare:
 ### SYRIAN FRONT
 
 1) No ground maneuvers are being observed across the border.<br>
-2) INTEL estimates that the maneuvering elements of the 3rd Corps are not yet ready to advance towards the border and are still at their staging phase (See “[SYRIAN GROUND FORCE COMBAT TACTICS]" (https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3) )<br>
+2) INTEL estimates that the maneuvering elements of the 3rd Corps are not yet ready to advance towards the border and are still at their staging phase (See [SYRIAN GROUND FORCE COMBAT TACTICS](https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3) )<br>
 3) The Syrian 3rd Corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line “BRAVO” (The Eastern border of the 1974 demilitarized zone or “UNDOF ZONE”)<br>
 4) The 3rd corps consists primarily of 3 divisions:<br>
 4a) 30th armored division is deployed along the Northern part of the border from just South of Mt. Hermon.<br>
