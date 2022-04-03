@@ -1,4 +1,5 @@
 # OPERATION EASTERN-HAMMER - INTREP FOR D+0
+UPDATED 03-APR-2022
 
 ## ENEMY GROUND FORCE SITUATION
 
@@ -30,6 +31,8 @@ For the past several days, the situation is that of a low-intensity warfare:
 7b) Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.<br>
 
 8) Diplomatic efforts are still underway to try to prevent further escalation of the situation in the Middle East.<br>
+
+9) With a diplomatic solution still a possibility (Although remote), the allied forces in the region are being held at a WEAPONS HOLD and are only authorized to react to enemy fires into Israel or as self defense. Additional ROE instructions will follow.
 
 #### SYRIAN AIR DEFENCES
 The Syrian 3rd Corps is supported by (x3) battalions of SA-11 SAMs. One of the battalions is an organic element of the 3rd Corps while the two others are believed to be a reinforcement from the Syrian strategic reserve. Estimated locations of the SA11 battalions are provided in the CF file linked below. However it should be noted that those are approximated locations and that the batteries may have moved to alternate positions already.
