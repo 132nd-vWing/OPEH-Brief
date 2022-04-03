@@ -2,25 +2,28 @@
 
 ## ENEMY GROUND FORCE SITUATION
 
+For the past several days, the situation is that of a low-intensity warfare:
+
+* Enemy is performing harassment fires by artillery – Both rocket and barrel – into Northern Israel.<br>
+* These indirect fires are sporadic and are mostly meant to disrupt civilian day-to-day life in the Galilee and Golan regions as well as disrupt allied forces’ preparations of military assets in the region (Movement of units, intel-gathering efforts etc’)
+
+
 ### SYRIAN FRONT
-The Syrian 2nd corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line "BRAVO" (The Eastern border of the 1974 demilitarized zone or "UNDOF ZONE")
 
-3rd corps consists primarily of 3 divisions:
-
-30th armored division is deployed along the Northern part of the border from just South of Mt.Hermon.
-
-31st mechanized division is deployed further South.
-
-32nd motorized division is holding a rear position.
-
-Both 30th armored and 31st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 31st or 32nd or to exploit success of either of the divisions.
-
-The Syrian 1st corps and 5th corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 5th is presumed to be guarding DAMASCUS and the Syrian high leadership.
-
-Of the 1st corps, the 10th armored division is identified to be staging West of DAMASCUS. Its location is close to several key roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon with intent to pursue one of two possible objectives:
-
-1)  Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon) <br>
-2)  Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.
+1) No ground maneuvers are being observed across the border.<br>
+2) INTEL estimates that the maneuvering elements of the 3rd Corps are not yet ready to advance towards the border and are still at their staging phase (See “[SYRIAN GROUND FORCE COMBAT TACTICS]" (https://cloud.132virtualwing.org/s/nMrojaiiqQBafN3) )<br>
+3) The Syrian 3rd Corps is deployed along the ISR-SYR border. As of now all enemy forces are sighted East of UNDOF line “BRAVO” (The Eastern border of the 1974 demilitarized zone or “UNDOF ZONE”)<br>
+4) The 3rd corps consists primarily of 3 divisions:<br>
+4a) 30th armored division is deployed along the Northern part of the border from just South of Mt. Hermon.<br>
+4b) 31st mechanized division is deployed further South.<br>
+4c) 32nd motorized division is holding a rear position.<br>
+5) Both 30th armored and 31st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 31st or 32nd or to exploit success of either of the divisions.<br>
+6) The Syrian 1st corps and 5th corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 5th is presumed to be guarding DAMASCUS and the Syrian high leadership.<br>
+7) Of the 1st corps, the 10th armored division is identified to be staging West of DAMASCUS. Its location is close to several key roads leading from Syria into Lebanon. It is therefore believed that this division may be used for maneuvering West into Lebanon with intent to pursue one of two possible objectives:<br>
+7a) Deploy in a defensive stance to defend the BEIRUT-DAMASCUS highway which is a vital supply-line (And might be threatened by an Israeli offensive into Lebanon)<br>
+7b) Advance South to threaten or to attack the LEB-ISR border into the Galilee area, threatening KIRYAT-SHMONA and other Israeli population centers in the area.<br>
+8) Diplomatic efforts are still underway to try to prevent further escalation of the situation in the Middle East.<br>
+9) While diplomacy is still not exhausted, the allied armed forces in the region are under a general WEAPONS TIGHT condition and are only allowed to react locally against enemy fires or to prevent immediate threats to military or civilian elements.
 
 ![OPEH THEATER D0v2](https://user-images.githubusercontent.com/42184209/160253013-5a289473-c2d7-4f1c-9947-867e3c2f8bb2.png)
 
