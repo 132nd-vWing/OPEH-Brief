@@ -48,12 +48,21 @@ From the location of the SA11s it apears that the Syrian HQ is trying to primari
 As of now we do not recognize involvement of Iranian forces close to the Israeli border. We estimate that small Iranian forces are currently holding defensive position to defend Iranian interests on Syrian soil.
 
 ## LEBANESSE FRONT / HEZBOLLAH
-Very little intelligence available of HZB activities. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. There are currently no data regarding any plans of using RADUAN commando companies to launch ground offensives into Israel at this time. Our sources believe that for the near future HZB will opt to continue harassing Israeli border area with indirect artillery fire rather than launching its own ground maneuvers. This, however, could chance as the crisis evolves.
+1. Very little intelligence available of HZB activities.
+
+2. HZB has been involved in sporadic indirect fires into Israel, mostly GRAD and mortar rockets targeting IDF bases and facilities
+
+3. Indications are that HZB is mobilizing its reserve and is reinforcing its short and medium-range artillery assets along the ISR-LEB border. The reason is likely to have a sustained ability to generate fires for the time to come should the situation escalate.
+
+4. There are currently no data regarding any plans of using RADUAN commando companies to launch ground offensives into Israel at this time.
+
+5. Our sources believe that for the near future HZB will opt to continue harassing Israeli border area with indirect artillery fire rather than launching its own ground maneuvers. This, however, could change as the crisis evolves.
 
 ## ENEMY AIR FORCE SITUATION
 ### SYRIAN AIR ASSETS
 
 Syrian air force is presumably intending to allocate two air divisions to support the operation against Israel.
+The likely COA (Course Of Action) is that Syrian senior command will opt to rely on its SAM coverage in order to deny air superiority from allied air forces while keeping Syrian air assets on alert and activated only in case the SAM system is degraded.
 
 #### The 51st Air Defense Division
 
