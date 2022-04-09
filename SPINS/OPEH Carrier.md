@@ -14,3 +14,6 @@ ED's carrier ATC is being used and the following calls are mandatory in CASE-I o
 - TACAN: 73X
 - ICLS: 13
 - ATC: 310.100
+- LSO freq:  300.1
+- Marshal freq:  300.2
+- Tanker (S-3B):  300.3
