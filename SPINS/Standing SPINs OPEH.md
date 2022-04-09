@@ -110,11 +110,17 @@ Flights will be assigned TACAN codes in the ATO, available on the 132nd website.
 These frequencies are used by AWACS to control aircraft.
 
 Check-in: 231.500 (GREEN 7)
+
 In Flight Report Net: 228.0 (ORANGE 10)
+
 Air Request Net: 21.00 FM
+
 CSAR Net: 233.0 (PINK 1)
+
 VHF Backup: 122.250 (GRAY 10)
+
 Ground Alert frequency (Scramble frequency): 248.75 (GREEN 6)
+
 ### 3.2.2 Tactical frequencies
 These frequencies are used by either AWACS or Mission Commanders / Flight Leads to use for the actual tactical execution of the mission (packages, SCAR, etc).
 
@@ -133,22 +139,32 @@ TBD
 
 ### 3.4.2 After Action Report (AAR)
 After completion of mission, all pilots and controllers are to file an after action report. The after action report contains the following important information, and is filled out on the 132nd website:
+
 - Event sequence: What was done in the mission. Where was it flown.
-- Lessons Learned: What experiences was done in the mission. What worked, what did not work. Suggestions of tactics that may work, or other ideas on how to solve t he mission or handling situations.
+
+- Lessons Learned: What experiences was done in the mission. What worked, what did not work. Suggestions of tactics that may work, or other ideas on how to solve the mission or handling situations.
+
 - Battle Damage Assessment (BDA): If there are delivered any ordnance (both A-A and A-G) fill out the BDA for the engagement. If a pilot do not have a confirmed BDA it should be noted as not confirmed, but a best assessment should be provided.
-- Intel: Any information or observation that can be of intelligence value for
+
+- Intel: Any information or observation that can be of value for intelligence gathering.
+
 - Attachements: Any pictures (TGP / HUD / out of cockpit / LotATC radar tracks) are to be posted in the #bda-reports channel on the 132nd Discord server or as a link in the AAR.
-- 
+
+
 #### 3.4.2.1 Reporting instructions
 - For BDA and Intel: locations are to be provided in accordance with section 2.2.
+
 - The Virtual Intelligence Service (VIS) analysts do not have details of individual pilots/flights plans, or their planned navpoints, so it is important that all locations are in a format that can be used directly in CombatFlite for processing. All necessary details/information need to be within the AAR, so the analysts can understand the full picture.
+
 - Pictures is often good supplements to the written report, and it is encouraged for pilots that encounter situations to also provide documentation in the form of pictures
+
 - The individual reporting from each pilot is very important in this operation, as VIS rely in this information to understand what is happening, and to prepare for future mission and priorities.
 
 ## 3.5 Retasking
 TBD
 
 # 4 Air to Air Instructions
+
 ## 4.1 Identification terms
 In OPERATION EASTERN-HAMMER the following identification terms will be used:
 
@@ -178,8 +194,11 @@ In OPERATION EASTERN-HAMMER the following ID criteria will be used:
 
 ### 4.2.1 Friendly requirements
 IFF
+
 Following flightplan
+
 Communications
+
 Visually ID to friendly unit (Either visual observation or onboard sensors such as EO)
 In order to satisfy lack of friendly requirements, completed checks of identification, friendly flight plan and/or minimum risk route adherence must be accomplished.
 
@@ -363,15 +382,23 @@ TST are of critical importance for the overall execution of the campaign. If any
 TST matrix with valid TST targets , desired effect and accepted risk level is published daily together with the Joint Prioritized Target List (JPTL) by JFACC.
 
 # 6 Tanker information
+Tankers information can be retrieved in the CombatFlite (CF) file for each mission.
+
+In general:
+
 KC-135 are used for boom operations (F-16 / A-10)
 KC-135 MPRS are used for drogue operations (F/A-18 / F-14)
 
 ## 6.1 Tanker tracks.
+
 Tanker tracks will be named ARXXX.
 AR6XX (Callsign TEXACO) for boom operations lower speed (speed 220kts FL115).
 AR7XX (Callsign ARCO) for boom operations higher speed (speed Mach 0.6)
 AR8XX (Callsign SHELL) for drogue operations (speed Mach 0.6)
-Altimeter setting.Unless otherwise directed an altimeter setting of standard pressure setting (29.92) is to be used for AAR operations.
+
+Altimeter setting:
+
+Unless otherwise directed an altimeter setting of standard pressure setting (29.92) is to be used for AAR operations.
 
 ## 6.2 Vertical separation.
 Receivers are to join from below and are to maintain a minimum of 1000ft vertical separation (unless otherwise directed by the controlling agency) , until visual contact have been made.
