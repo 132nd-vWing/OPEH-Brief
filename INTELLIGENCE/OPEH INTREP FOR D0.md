@@ -39,7 +39,7 @@ The Syrian 3rd Corps is supported by (x3) battalions of SA-11 SAMs. One of the b
 
 From the location of the SA11s it apears that the Syrian HQ is trying to primarily use them to provide cover for the 3rd Corps staging areas. We anticipate that shortly or during the 3rd Corps ground maneuver commences, the SA11 batteries will advance forward closer to the border to provide cover to the advancing forces and deny allied air forces of air superiority over the Golan Heights.
 
-[D0 CombatFlite file (v1)](https://cloud.132virtualwing.org/s/TaczdfBoo2fH2R5)
+[D0 CombatFlite file (v2)](https://cloud.132virtualwing.org/s/7XtBDd6xfE6g2Wx)
 
 ![OPEH THEATER D0v2](https://user-images.githubusercontent.com/42184209/160253013-5a289473-c2d7-4f1c-9947-867e3c2f8bb2.png)
 
