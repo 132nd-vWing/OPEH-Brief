@@ -114,6 +114,7 @@ DCS ground charts are in use
 UPDATED 09-APR-2022
 
 Carrier based assets will stage from the [CVN-72 Abraham Lincoln](https://132nd-vwing.github.io/OPEH-Brief/SPINS/OPEH%20Carrier)
+
 See the link for carrier ops details
 
 ## Administrative information
