@@ -111,7 +111,10 @@ Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields <br>
 DCS ground charts are in use
 
 ### Carrier based aircraft
-Carrier based assets will stage from the [CVN-73 George Washington](https://132nd-vwing.github.io/OPEH-Brief/SPINS/OPEH%20Carrier)
+UPDATED 09-APR-2022
+
+Carrier based assets will stage from the [CVN-72 Abraham Lincoln](https://132nd-vwing.github.io/OPEH-Brief/SPINS/OPEH%20Carrier)
+See the link for carrier ops details
 
 ## Administrative information
 [Administrative information](https://132nd-vwing.github.io/OPEH-Brief/ADMIN/OPEH%20Admin)
