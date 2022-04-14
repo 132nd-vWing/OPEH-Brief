@@ -1,7 +1,7 @@
 # OPERATION "EASTERN-HAMMER" - Briefing
 Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
 
-Last updated: 20-Mar-2022
+Last updated: 14-APR-2022, updated radio presets for 494th
 
 ## PREFACE 
 
@@ -96,9 +96,22 @@ Non-changing information and background regarding our adversaries:
 
 ## COMMUNICATIONS
 
-All comms and presets for EASTERN HAMMER are identical to those of OPERATION ACTIVE RESOLVE
+Radio presets for 132nd assets are as follows:
 
-Please see [OPAR communications page](https://132nd-vwing.github.io/OPAR-Brief/COMMUNICATIONS/PRESETS.html) for the frequencies
+[108th (F-14) presets](https://cloud.132virtualwing.org/s/WEMfFpLDBNnge9J)
+
+[259th (Mi-8) presets](https://cloud.132virtualwing.org/s/xBZkLwkYiJBT5nT)
+
+[388th (F-16C) presets](https://cloud.132virtualwing.org/s/8RgpjzMpcTiPcZi)
+
+[494th (F/A-18C) presets](https://cloud.132virtualwing.org/s/R95Bbn6MFH8tT2z)
+
+[617th (A-10CII) presets](https://cloud.132virtualwing.org/s/xSzcZ3rBcgPj4Zj)
+
+[696th (Ka-50) presets](https://cloud.132virtualwing.org/s/WH6ZkFGA5NeBcjd)
+
+A master EXCEL source file is available as well if needed.
+
 
 ## SPINS (SPecial INStructions)
 
