@@ -20,7 +20,7 @@ Forces loyal to the Syrian president fought against a variety of militia organiz
 
 Of the militia groups active in Syria at the time were groups of Iranian-funded mercenaries that formed their camps in Southern Syria close to the Syrian-Israeli border. Those groups were Iranian proxy groups intended to shape the conditions for a constant Iranian presence in front of the Israeli border with the intent of being used as an additional front against Israel for deterrence as well as staging combat operations during any future Iranian-Israeli conflict.
 
-With the gradual decline in the civil war and the Syrian military slowly recovering its strength, the Iranian proxies were replaced by a sizeable Iranian expeditionary force composed of armed and mechanized units as well as intelligence gathering assets operating from bases and outposts close to the border and Iranian air-force elements staging in airbases throughout Syria.
+With the gradual decline in the civil war and the Syrian military slowly recovering its strength, the Iranian proxies were replaced by a sizeable Iranian expeditionary force composed of armored and mechanized units as well as intelligence gathering assets operating from bases and outposts close to the border and Iranian air-force elements staging in airbases throughout Syria.
 
 With the heavy presence of Hezbollah in Southern-Lebanon, the national Lebanese military essentially withdrew from Southern-Lebanon, being unable to challenge the strength of Hezbollah.
 
