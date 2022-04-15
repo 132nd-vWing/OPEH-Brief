@@ -22,7 +22,7 @@ For the past several days, the situation is that of a low-intensity warfare:
 4b) 31st mechanized division is deployed further South.<br>
 4c) 32nd motorized division is holding a rear position.<br>
 
-5) Both 30th armored and 31st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 22nd motorized division is presumed to be standing ready to either support either the 31st or 32nd or to exploit success of either of the divisions.<br>
+5) Both 30th armored and 31st mechanized divisions are presumed to be staging for an offensive into the Israeli-held Golan Heights. The 32nd motorized division is presumed to be standing ready to either support either the 31st or 32nd or to exploit success of either of the divisions.<br>
 
 6) The Syrian 1st corps and 5th corps are deployed further North-East around the capital city of DAMASCUS. The 1st is believed to be a strategic reserve while the 5th is presumed to be guarding DAMASCUS and the Syrian high leadership.<br>
 
