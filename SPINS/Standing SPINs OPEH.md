@@ -265,7 +265,7 @@ Nothing in these ROE negates a pilot’s right to take all necessary and appropr
 TBD
 
 ### 5.1.1 Standard Acceptable Level of Risk
-The standard Acceptable Level of Risk (ALR) in OPERATION ACTIVE RESOLVE is MEDIUM. Deviations will be stated in amplifications in flight tasking in the ATO, or on Joint Prioritized Target List (JPTL) for AI operations.
+The standard Acceptable Level of Risk (ALR) in OPERATION EASTERN HAMMER is MEDIUM. Deviations will be stated in amplifications in flight tasking in the ATO, or on Joint Prioritized Target List (JPTL) for AI operations.
 
 ## 5.2 Target priority grade
 
@@ -335,7 +335,7 @@ The following effects may be tasked on the ATO:
 2) To keep from happening to avert
 
 ## 5.4 Close Air Support (CAS)
-The following formats are used for CAS operations in OP ACTIVE RESOLVE:
+The following formats are used for CAS operations in OPERATION EASTERN HAMMER:
 
 ### 5.4.1 CAS check-in briefing
 Mission number
