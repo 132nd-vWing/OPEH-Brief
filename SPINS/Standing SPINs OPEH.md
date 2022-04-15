@@ -7,7 +7,7 @@ information is not in any way suitable for real world use or operations.
 # 1 INTRODUCTION
 
 ## 1.1 SCOPE
-These SPINS outlines those procedures applicable to the safe effective operations of aircrafts participating in Operation Eastern-Hammer (OPEH). Note: These SPINS will not replace each participating squadron own SOP’s but will make sure that all participating pilots have a common understanding on how to operate during OPAR.
+These SPINS outlines those procedures applicable to the safe effective operations of aircrafts participating in Operation Eastern-Hammer (OPEH). Note: These SPINS will not replace each participating squadron own SOP’s but will make sure that all participating pilots have a common understanding on how to operate during OPEH.
 
 ## 1.2 Deviations
 Deviations from these procedures require specific approval from participating squadrons/organizations and need to be briefed to all relevant actors.
@@ -42,23 +42,23 @@ Elevation will be given in feet AMSL unless otherwise stated
 
 ## 2.3 Reference documents
 ### 2.3.1 Close Air Support (CAS)
-The following document outlines how CAS is conducted in OPAR:
+The following document outlines how CAS is conducted in OPEH:
 [132-TTP-1 CAS Manual v1.2](https://cloud.132virtualwing.org/s/kQAMrnwr5ZJQRCn)
 
 ### 2.3.2 Armed Reconnaissance (AR)
-The following document outlines how AR is conducted in OPAR:
+The following document outlines how AR is conducted in OPEH:
 [132-TTP-12 Armed Reconnaissance v1.0](https://cloud.132virtualwing.org/s/TJ2GHraHAoFkPXi)
 
 ### 2.3.3 Strike Coordination And Reconnaissance (SCAR)
-The following document outlines how SCAR is conducted in OPAR:
+The following document outlines how SCAR is conducted in OPEH:
 [132-TTP-6 SCAR v2.0](https://cloud.132virtualwing.org/s/DnfTB2JKWJqZqQH)
 
 ### 2.3.4 Air Interdiction (AI)
-The following document outlines how AI operations are conducted in OPAR:
+The following document outlines how AI operations are conducted in OPEH:
 [132-TTP-13 Air Interdiction v1.0 ](https://cloud.132virtualwing.org/s/MknWCGRwTHDXMXB)
 
 ### 2.3.5 AWACS
-The following document outlines how integration and cooperation with AWACS is conducted in OPAR:
+The following document outlines how integration and cooperation with AWACS is conducted in OPEH:
 [132-TTP-10-AWACS Procedures v2.0](https://cloud.132virtualwing.org/s/AqHeKjJ39cE25mT)
 
 ## 2.4 ATO publication
