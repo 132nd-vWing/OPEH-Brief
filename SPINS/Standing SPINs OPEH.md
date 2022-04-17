@@ -392,9 +392,7 @@ KC-135 MPRS are used for drogue operations (F/A-18 / F-14)
 ## 6.1 Tanker tracks.
 
 Tanker tracks will be named ARXXX.
-AR6XX (Callsign TEXACO) for boom operations lower speed (speed 220kts FL115).
-AR7XX (Callsign ARCO) for boom operations higher speed (speed Mach 0.6)
-AR8XX (Callsign SHELL) for drogue operations (speed Mach 0.6)
+Consult relevant CF file for tanker details
 
 Altimeter setting:
 
@@ -446,7 +444,7 @@ Minimum Risk Route is a route that will keep air traffic fairly safe from threat
 QNH is the altimeter pressure setting to be used by all aircrafts.
 
 #### 7.2.4.6 Standard Pressure Settings (SPS).
-For operations in 132nd Virtual Wing hosted events we use standard pressure setting at altitudes above 7000ft AMSL. When climbing above 7500ft, switch to standard pressure setting (29.92). Altitudes will be given as flight levels(FL)when operating on SPS. When descending below FL085, switch back to local QNH.
+For OPERATION EASTERN HAMMER, use the standard pressure setting at altitudes above 11000ft AMSL. When climbing above 11000ft, switch to standard pressure setting (29.92). Altitudes will be given as flight levels(FL)when operating on SPS. When descending below FL013, switch back to local QNH.
 
 #### 7.2.4.7 Force QNH.
 Any C2 agency (including AWACS, JTAC, FAC(A) and SCAR) can establish a force QNH within his area of responsibility. This in-order to avoid unnecessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
