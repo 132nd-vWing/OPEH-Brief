@@ -444,7 +444,8 @@ Minimum Risk Route is a route that will keep air traffic fairly safe from threat
 QNH is the altimeter pressure setting to be used by all aircrafts.
 
 #### 7.2.4.6 Standard Pressure Settings (SPS).
-For OPERATION EASTERN HAMMER, use the standard pressure setting at altitudes above 11000ft AMSL. When climbing above 11000ft, switch to standard pressure setting (29.92). Altitudes will be given as flight levels(FL)when operating on SPS. When descending below FL013, switch back to local QNH.
+For the theater of OPERATION EASTERN HAMMER, the highest terrain elevation is around 9000 FT MSL.
+Therefore, according to 132nd TTP-5 SOPs, a Transition Altitude (TA) of 11.000 FT MSL will be used in the climb to switch from QNH to Standard Pressure Setting (QNE; 29.92 inHg) in order to use the Flight Levels above. When coming back down from the Flight Levels, a Transition Level (TL) of FL130 will be used in the descent to switch back to local mission QNH in order to fly Altitudes above MSL.
 
 #### 7.2.4.7 Force QNH.
 Any C2 agency (including AWACS, JTAC, FAC(A) and SCAR) can establish a force QNH within his area of responsibility. This in-order to avoid unnecessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
