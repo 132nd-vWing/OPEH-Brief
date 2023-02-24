@@ -1,7 +1,7 @@
 # OPERATION "EASTERN-HAMMER" - Briefing
 Briefing material for 132nd Virtual Wing- EASTERN-HAMMER campaign
 
-Last updated: 14-APR-2022, updated radio presets for 494th
+Last updated: 24FEB2023 - refreshing for 2023 re-run
 
 ## PREFACE 
 
@@ -35,7 +35,7 @@ This buildup of forces was continuing gradually with minor, local skirmishes wit
 Parallel to the above, Russia has also been using the situation in Syria to its advantage by dispatching air and ground forces and securing the major seaport of Tartus as a primary naval base in the Mediterranean.
 With the increase in tension and many forces facing each other, a full-scale war was only a matter of time.
 
-## THE 2022 ESCALATION
+## THE 2023 ESCALATION
 
 On January 10th, a convoy carrying advanced SAM systems was attacked by the Israeli Air Force when traveling from Syria to Lebanon. As the convoy was crossing the Syrian-Lebanese border and traveling in a Lebanese village when it was being hit by A-G missiles, and several civilian casualties were reported.
 Hezbollah, constantly declaring the safety of Lebanese population as his prime concern, retaliated by launched several SMERCH and GRAD rockets at Israeli population centers from its bases in Lebanon and Syria.
@@ -108,7 +108,7 @@ Radio presets for 132nd assets are as follows:
 
 [617th (A-10CII) presets](https://cloud.132virtualwing.org/s/xSzcZ3rBcgPj4Zj)
 
-[696th (Ka-50) presets](https://cloud.132virtualwing.org/s/WH6ZkFGA5NeBcjd)
+[656th (AH-64) presets](https://cloud.132virtualwing.org/s/WH6ZkFGA5NeBcjd)
 
 A master EXCEL source file is available as well if needed.
 
