@@ -68,10 +68,10 @@ The Kingdom of Jordan has announced it would remain neutral in the evolving conf
 Jordan is taking steps to increase its military readiness along the Western part of the Jordanian-Syrian border as some cells of ISIS and AL-QAEDA that are still active might try to make use of the escalating situation and try to either relocate into Jordan or attack Jordanian villages or assets near the border.
 
 ### Turkey
-Turkey has announced it would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+Turkey has announced it would remain neutral in the evolving conflict and do not approve the use of its airspaces for combat activities but only for humanitarian support as needed.
 
 ### Cyprus
-Cyprus has announced it would remain neutral in the evolving conflict and do not approve the use of their respective airspaces for combat activities but only for humanitarian support as needed.
+Cyprus has announced it would remain neutral in the evolving conflict and do not approve the use of its airspaces for combat activities but only for humanitarian support as needed.
 
 ## ALLIED GROUND FORCE
 
@@ -89,7 +89,6 @@ Non-changing information and background regarding our adversaries:
 [INTELLIGENCE/OPEH Intelligence - background information and terrain overview](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20Intelligence%20-%20background%20information)
 
 ### INTELLIGENCE REPORT FOR D+0
-(v1, UPDATED 04APR2022)
 
 [INTREP UPDATED FOR D+0](https://132nd-vwing.github.io/OPEH-Brief/INTELLIGENCE/OPEH%20INTREP%20FOR%20D0)
 
@@ -124,7 +123,6 @@ Land based CJTF assets can stage at RAMAT DAVID and ROSH-PINA airfields <br>
 DCS ground charts are in use
 
 ### Carrier based aircraft
-UPDATED 09-APR-2022
 
 Carrier based assets will stage from the [CVN-72 Abraham Lincoln](https://132nd-vwing.github.io/OPEH-Brief/SPINS/OPEH%20Carrier)
 
