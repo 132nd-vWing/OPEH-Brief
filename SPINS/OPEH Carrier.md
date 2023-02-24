@@ -1,6 +1,5 @@
 # Carrier information
 
-UPDATED 09-APR-2022
 
 The carrier will by default patrol along its preset route. 
 Aircraft departing or recovering need to use the F10 menu and request the carrier to start recovery. 
