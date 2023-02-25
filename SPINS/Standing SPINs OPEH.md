@@ -123,6 +123,7 @@ Ground Alert frequency (Scramble frequency): 248.75 (GREEN 6)
 
 ### 3.2.2 Tactical frequencies
 These frequencies are used by either AWACS or Mission Commanders / Flight Leads to use for the actual tactical execution of the mission (packages, SCAR, etc).
+
 ![image](https://user-images.githubusercontent.com/42184209/221352624-6c14be76-f26c-4714-8972-ada3876246b2.png)
 
 
