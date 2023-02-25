@@ -123,19 +123,35 @@ Ground Alert frequency (Scramble frequency): 248.75 (GREEN 6)
 
 ### 3.2.2 Tactical frequencies
 These frequencies are used by either AWACS or Mission Commanders / Flight Leads to use for the actual tactical execution of the mission (packages, SCAR, etc).
+![image](https://user-images.githubusercontent.com/42184209/221352624-6c14be76-f26c-4714-8972-ada3876246b2.png)
 
-### 3.2.3 JTAC frequencies and callsigns
+
+### 3.2.3 JTAC frequencies
+
+![image](https://user-images.githubusercontent.com/42184209/221352635-23bacbb7-96ef-4975-aa18-d5ab4c40f045.png)
+
+NOTE: At times, JTAC callsigns may vary from the ones listed here (As per the preferred callsign of JTACs we have signing up) but the frequencies will be as shown in the table.
+
 
 ### 3.2.4 AWACS check-in Check-in with AWACS are to be done at the following locations:
-TBD
+
+Check-ins with AWACS is to be conducted at designated Contact Points (CPs) or when leaving the airfield or FARPs.
+If AWACS is unmanned, all flights are to announce intentions (check-in and what frequency they are leaving for) before they leave check-in frequency for a tactical frequency.
+
 
 ## 3.3 Codewords Action/event Codeword
-TBD
+
+![image](https://user-images.githubusercontent.com/42184209/221352773-201a0cba-ecee-4d0b-9596-e53be7bf6d65.png)
+
 
 ## 3.4 Reporting
 
 ### 3.4.1 In-Flight Report (INFLTREP)
-TBD
+
+During missions, in-flight reports can be used to pass information, situation updates or BDAs to AWACS. 
+updates provided via in-flight reports from pilots already flying. In- Flight Report format:
+![image](https://user-images.githubusercontent.com/42184209/221352895-66536185-5787-4471-9ba4-e5f37e4b66a2.png)
+
 
 ### 3.4.2 After Action Report (AAR)
 After completion of mission, all pilots and controllers are to file an after action report. The after action report contains the following important information, and is filled out on the 132nd website:
@@ -161,7 +177,8 @@ After completion of mission, all pilots and controllers are to file an after act
 - The individual reporting from each pilot is very important in this operation, as VIS rely in this information to understand what is happening, and to prepare for future mission and priorities.
 
 ## 3.5 Retasking
-TBD
+Any flight flying in OPEH may be re-tasked to higher priority tasks. AWACS have re-tasking authority during execution of air operation. Re-tasking will be conducted using the re-tasking brief:
+![image](https://user-images.githubusercontent.com/42184209/221352950-06063cd5-40d3-4017-9b41-bacefc61c9ef.png)
 
 # 4 Air to Air Instructions
 
